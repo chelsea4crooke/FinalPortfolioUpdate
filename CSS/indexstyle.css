@@ -1,0 +1,33 @@
+body {
+    background-image: linear-gradient(to bottom right,#DAFFEF, #C5CBD3, #28536B);
+    background-repeat: repeat-x;
+    padding-right: 40px;
+    height: 100vh;
+}
+h1 {
+    font-size: 36px;
+    text-decoration: underline;
+}
+#BioPic {
+    border: 2px solid #C5CBD3;
+}
+.Main {
+    background: #EDDFEF;
+    opacity: 0.7;
+    border: 2px solid #C5CBD3;    
+    margin-top: 70px;
+    padding-top: 15px;
+    margin-left: 50px;
+    margin-right: 30px;
+}
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin-top: 40px;
+    clear: both;
+}
+p{
+    font-size: 24px;
+}

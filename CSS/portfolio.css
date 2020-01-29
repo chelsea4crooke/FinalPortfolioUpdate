@@ -1,0 +1,15 @@
+body {
+    background-image: linear-gradient(to bottom right,#DAFFEF, #C5CBD3, #28536B);
+    background-repeat: repeat-x;
+    padding-right: 40px;
+}
+.title{
+    color: #28536B; 
+    font-size: 24px;
+}
+.pic {
+    border: solid 2px #C5CBD3;
+}
+#Main{
+    margin-left: 50px;
+}
